@@ -1,0 +1,12 @@
+D:\projects\TPElab1\TPElab1\bin\Debug\TPElab1.exe.config
+D:\projects\TPElab1\TPElab1\bin\Debug\TPElab1.exe
+D:\projects\TPElab1\TPElab1\bin\Debug\TPElab1.pdb
+D:\projects\TPElab1\TPElab1\obj\Debug\TPElab1.csprojResolveAssemblyReference.cache
+D:\projects\TPElab1\TPElab1\obj\Debug\TPElab1.exe
+D:\projects\TPElab1\TPElab1\obj\Debug\TPElab1.pdb
+D:\projects\TPE\TPElab1\bin\Debug\TPElab1.exe.config
+D:\projects\TPE\TPElab1\obj\Debug\TPElab1.exe
+D:\projects\TPE\TPElab1\obj\Debug\TPElab1.pdb
+D:\projects\TPE\TPElab1\bin\Debug\TPElab1.exe
+D:\projects\TPE\TPElab1\bin\Debug\TPElab1.pdb
+D:\projects\TPE\TPElab1\obj\Debug\TPElab1.csprojResolveAssemblyReference.cache
