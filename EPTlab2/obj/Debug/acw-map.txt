@@ -1,0 +1,4 @@
+EPTlab2.MainActivity, EPTlab2;md5b28cf100f11c32a0780efc547ade0f0a.MainActivity
+EPTlab2.MainActivity, EPTlab2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b28cf100f11c32a0780efc547ade0f0a.MainActivity
+EPTlab2.MainActivity;md5b28cf100f11c32a0780efc547ade0f0a.MainActivity
+eptlab2.MainActivity;md5b28cf100f11c32a0780efc547ade0f0a.MainActivity
